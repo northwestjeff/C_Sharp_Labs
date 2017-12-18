@@ -1,0 +1,11 @@
+/Users/northwestjeff/Projects/Averager/Averager/bin/Debug/netcoreapp2.0/Averager.deps.json
+/Users/northwestjeff/Projects/Averager/Averager/bin/Debug/netcoreapp2.0/Averager.runtimeconfig.json
+/Users/northwestjeff/Projects/Averager/Averager/bin/Debug/netcoreapp2.0/Averager.runtimeconfig.dev.json
+/Users/northwestjeff/Projects/Averager/Averager/bin/Debug/netcoreapp2.0/Averager.dll
+/Users/northwestjeff/Projects/Averager/Averager/bin/Debug/netcoreapp2.0/Averager.pdb
+/Users/northwestjeff/Projects/Averager/Averager/obj/Debug/netcoreapp2.0/Averager.csprojResolveAssemblyReference.cache
+/Users/northwestjeff/Projects/Averager/Averager/obj/Debug/netcoreapp2.0/Averager.csproj.CoreCompileInputs.cache
+/Users/northwestjeff/Projects/Averager/Averager/obj/Debug/netcoreapp2.0/Averager.AssemblyInfoInputs.cache
+/Users/northwestjeff/Projects/Averager/Averager/obj/Debug/netcoreapp2.0/Averager.AssemblyInfo.cs
+/Users/northwestjeff/Projects/Averager/Averager/obj/Debug/netcoreapp2.0/Averager.dll
+/Users/northwestjeff/Projects/Averager/Averager/obj/Debug/netcoreapp2.0/Averager.pdb
