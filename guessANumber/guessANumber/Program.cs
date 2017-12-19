@@ -11,9 +11,9 @@ namespace guessANumber
             int chosenNum = rnd.Next(1, 10);
             var running = true;
 
-            Console.WriteLine("Guess a number between 1 and 10!");
-            Console.WriteLine("You have three guesses:");
-            Console.WriteLine("======");
+            //Console.WriteLine("Guess a number between 1 and 10!");
+            //Console.WriteLine("You have three guesses:");
+            //Console.WriteLine("======");
 
             try
             {
@@ -21,6 +21,9 @@ namespace guessANumber
                 //int guess = int.Parse(entry);
                 while (running)
                 {
+                    Console.WriteLine("Guess a number between 1 and 10!");
+                    Console.WriteLine("You have three guesses:");
+                    Console.WriteLine("======");
 
                     while (guessCounter < 4)
                     {
